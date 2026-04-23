@@ -23,7 +23,7 @@ This project demonstrates an end-to-end machine learning workflow including expe
 
 ## How to Run
 1. Open `model_experiments.ipynb`
-2. Install dependencies from `requirements.txt`
+2. Install dependencies from `requirements.rtf`
 3. Take a Dataset
 4. Run all cells to reproduce experiments and results
 
