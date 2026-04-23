@@ -20,3 +20,10 @@ Built and optimized a neural network classifier through systematic experimentati
 ## Why This Matters
 
 This project demonstrates an end-to-end machine learning workflow including experimentation, model selection, evaluation, and fairness analysis — reflecting real-world ML development practices.
+
+## How to Run
+
+1. Open `model_experiments.ipynb`
+2. Take a Dataset (You're prefereable)
+3. Run all cells
+4. View results and analysis
