@@ -4,6 +4,10 @@ This project explores an end-to-end machine learning workflow, where a neural ne
 
 The final model achieved **85.67% accuracy**while revealing performance trade-offs and fairness gaps across demographic groups.
 
+## Model Training Performance
+
+![Training Curve](training_curve.png)
+
 ## What I Did
 - Designed and compared 8 neural network architectures
 - Evaluated multiple batch sizes and optimizers (SGD, RMSProp, Adam)
