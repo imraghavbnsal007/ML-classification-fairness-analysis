@@ -57,4 +57,4 @@ It also highlights that model performance is not only about accuracy, but how co
 
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.rtf
