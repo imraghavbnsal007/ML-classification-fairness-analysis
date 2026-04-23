@@ -1,5 +1,8 @@
 # ML Classification with Hyperparameter Tuning and Fairness Analysis
-Built and optimized a neural network classifier through systematic experimentation (architectures, optimizers, batch sizes), achieving 85.67% accuracy while analysing performance gaps across demographic groups to evaluate fairness trade-offs.
+
+This project explores an end-to-end machine learning workflow, where a neural network classifier is optimized through systematic experimentation (architectures, optimizers, batch sizes).
+
+The final model achieved **85.67% accuracy**while revealing performance trade-offs and fairness gaps across demographic groups.
 
 ## What I Did
 - Designed and compared 8 neural network architectures
@@ -23,7 +26,7 @@ This project demonstrates an end-to-end machine learning workflow including expe
 
 ## How to Run
 1. Open `model_experiments.ipynb`
-2. Install dependencies from `requirements.txt`
+2. Install dependencies from `requirements.rtf`
 3. Take a Dataset
 4. Run all cells to reproduce experiments and results
 
