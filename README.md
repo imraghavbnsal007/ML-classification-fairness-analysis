@@ -1,2 +1,2 @@
 # End-to-end-ML-experiment-with-hyperparameter-tuning-and-fairness-analysis
-Built and evaluated a neural network model to understand classification performance and fairness across demographic groups, highlighting trade-offs between accuracy and bias.
+Built and optimized a neural network classifier through systematic experimentation (architectures, optimizers, batch sizes), achieving 85.67% accuracy while analysing performance gaps across demographic groups to evaluate fairness trade-offs.
