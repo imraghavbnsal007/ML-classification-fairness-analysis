@@ -26,3 +26,10 @@ This project demonstrates an end-to-end machine learning workflow including expe
 2. Install dependencies from `requirements.txt`
 3. Take a Dataset
 4. Run all cells to reproduce experiments and results
+
+## Tech Stack
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
